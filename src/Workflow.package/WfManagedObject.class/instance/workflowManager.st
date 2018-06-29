@@ -1,6 +1,3 @@
 accessing
 workflowManager
-
-	"Was the code with the dynamic variable
-	^ WfCurrentWorkflowManager value ifNil: [WfWorkflowManager new]"
-	^ WfWorkflowManager new
+	^ WfCurrentWorkflowManager value ifNil: [ self error: 'Dynamicvariable should be setted ']

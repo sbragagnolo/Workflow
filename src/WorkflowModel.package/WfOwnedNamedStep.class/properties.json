@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "WfNamedStep",
+	"category" : "WorkflowModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"owner",
+		"receiver"
+	],
+	"name" : "WfOwnedNamedStep",
+	"type" : "normal"
+}
