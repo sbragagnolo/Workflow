@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "WorkflowModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"steps",
+		"workflow",
+		"start"
+	],
+	"name" : "WfSequenceFlowBuilder",
+	"type" : "normal"
+}
