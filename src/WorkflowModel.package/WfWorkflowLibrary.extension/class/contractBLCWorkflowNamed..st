@@ -1,3 +1,3 @@
 *WorkflowModel
 contractBLCWorkflowNamed: aString
-	^ BLCContractingFlow new
+	^ BLCWorkFlow new
