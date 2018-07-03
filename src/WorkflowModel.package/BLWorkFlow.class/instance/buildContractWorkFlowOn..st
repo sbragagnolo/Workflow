@@ -1,7 +1,7 @@
 as yet unclassified
 buildContractWorkFlowOn: workflow
 	| sequence |
-	sequence := WfSequenceFlowBuilder on: workflow.
+	sequence := BLCSequenceFlowBuilder on: workflow.
 	sequence
 		nextPutStepNamed: 'Contract Request';
 		nextPutStepNamed: 'Contract Production';
