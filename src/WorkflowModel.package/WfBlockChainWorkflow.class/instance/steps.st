@@ -1,3 +1,0 @@
-*WorkflowModel
-steps
-	^ steps
