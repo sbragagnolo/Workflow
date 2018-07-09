@@ -1,3 +1,3 @@
 testing
 isReady
-	^ incomingTokens keys includesAllOf: step mergeSteps
+	^ incomingTokens keys includesAll: step mergeSteps

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "WorkflowModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"task1",
+		"task2",
+		"frame"
+	],
+	"name" : "BLWorkFlow",
+	"type" : "normal"
+}
