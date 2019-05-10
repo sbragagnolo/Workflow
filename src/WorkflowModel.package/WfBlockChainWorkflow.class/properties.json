@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WfWorkflow",
+	"category" : "WorkflowModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WfBlockChainWorkflow",
+	"type" : "normal"
+}
